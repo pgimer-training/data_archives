@@ -1,1 +1,1 @@
-# data_archives
+# ngs_data_archives
