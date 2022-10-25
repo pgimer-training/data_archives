@@ -1,3 +1,3 @@
-"Species","Collection Date","Country","Host","Read1","Read2","Instrument Model","Library Source","Library Strategy" 
-Salmonella typhi,2019,India,Human,22174_1.fastq.gz,22174_2.fastq.gz,Illumina HiSeq 2500,Genomic,WGS
-Salmonella typhi,2019,India,Human,22175_1.fastq.gz,22175_2.fastq.gz,Illumina HiSeq 2500,Genomic,WGS 
+"Species","Collection Date","Country","Host","Read1","Read2","Instrument Model","Library Source","Library Strategy","Insert Size" 
+Salmonella typhi,2019,India,Human,22174_1.fastq.gz,22174_2.fastq.gz,Illumina HiSeq 2500,Genomic,WGS,500
+Salmonella typhi,2019,India,Human,22175_1.fastq.gz,22175_2.fastq.gz,Illumina HiSeq 2500,Genomic,WGS,500 
